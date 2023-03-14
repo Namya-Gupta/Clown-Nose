@@ -1,0 +1,12 @@
+h1 {
+    font-size: 40px;
+    color: white;
+    font-family: monospace;
+}
+
+body {
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+}
+
